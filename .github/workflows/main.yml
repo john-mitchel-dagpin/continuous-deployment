@@ -2,7 +2,7 @@ name: Build
 
 on: [push]
 
-jobs:
+jobsa:
   build:
     runs-on: ubuntu-latest
     defaults:
@@ -16,4 +16,3 @@ jobs:
           node-version: 22.x
       - run: npm ci
       - run: npm run build
-      
