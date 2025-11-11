@@ -13,7 +13,7 @@ I denne workshop'en skal vi jobbe med å etablere en deploy pipeline for en web-
 - [Oppgave 3](./oppgave-3/README.md)
 - [Oppgave 4 (bonus)](./oppgave-4/README.md)
 
-## Ressruser
+## Ressurser
 
 - [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
 - [Starter workflows for different types of projects](https://github.com/actions/starter-workflows/tree/main/ci)
@@ -43,4 +43,4 @@ Emphasizes how lines of text should change.
 + and replaced with this text
 ```
 
-### [Gå til oppgave 1 :arrow_right:](../oppgave-2/README.md)
+### [Gå til oppgave 1 :arrow_right:](./oppgave-1/README.md)
