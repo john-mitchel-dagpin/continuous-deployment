@@ -257,7 +257,7 @@ For å få et artifakt (artifakt = applikasjon som har blitt bygget), kan vi ta 
 
 `npm build` vil produsere en mappe kalt `dist` i vår Github Action Runner. Vi kan ta den filen og tilknytte den til workflowen vår og bruke den i senere steg når vi skal deploye applikasjonen.
 
-Modifiser workflow-filen din for å inkludere `Archive artifacts`-steget som vist
+Modifiser workflow-filen din for å inkludere `Upload static files as artifact`-steget som vist
 
 ```diff
 name: Build and deploy
